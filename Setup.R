@@ -6,7 +6,7 @@ blogdown::install_hugo()
 update_hugo()
 hugo_version()
 file.create("netlify.toml")
-blogdown::new_site(  dir = "a",
+blogdown::new_site(  dir = "b",
                      install_hugo = TRUE,
                      format = "toml",
                      sample = TRUE,
