@@ -28,7 +28,6 @@ We compare the number of marriage is licensed each week to learn about which wee
 This paper, we are going to discuss the data as well as the graph. In terms of data, we will describe the marriage licenses in Toronto with numerical data. After we make a graph, we will analyze the data with graph's skewness and graph information. At the end, we will discuss the weakness of this analysis and what we can make up for. 
 
 
-
 ```{r cars}
 summary(cars)
 fit <- lm(dist ~ speed, data = cars)
